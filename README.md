@@ -11,6 +11,6 @@ Repositório para guardar resumos sobre as aulas de VERSIONAMENTO DE CÓDIGO COM
 
 # RESUMOS DAS AULAS:
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------| --------|
-|Gravando alterações no repósitório local|[Resumos]()|
+|Gravando alterações no repósitório local|[Resumo]()|
